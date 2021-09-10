@@ -3,7 +3,7 @@ title: "CHALLENGE NAME"
 subtitle: "CSAW 2021 CTF"
 author: USERNAME
 date: "2021-09-10"
-subject: "CHALLENGE NAME Write-Up"
+subject: "CHALLENGE NAME Writeup"
 keywords: \[CSAW21, CSAW, CTF, InfoSec\]
 lang: "en"
 titlepage: true
