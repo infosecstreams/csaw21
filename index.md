@@ -62,4 +62,4 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [Password Checker](./password-checker/)
 
-[Crack Me](./check-me/)
+[✔️ Crack Me](./crack-me/)
