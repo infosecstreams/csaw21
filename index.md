@@ -54,11 +54,11 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 ### warm-up
 
-✔️ [poem-collection](./poem-collection/)
+[✔️ poem-collection](./poem-collection/)
 
-[Turing](./turing/)
+[✔️ Turing](./turing/)
 
-[checker](./Checker/)
+[✔️ checker](./Checker/)
 
 [✔️ Password Checker](./password-checker/)
 
