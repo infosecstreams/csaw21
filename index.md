@@ -42,7 +42,7 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 ### web
 
-[ninja](./ninja/)
+[✔️ ninja](./ninja/)
 
 [Gatekeeping](./gatekeeping/)
 
