@@ -54,7 +54,6 @@ OR
 ## Cracking Hash With Hascat with a rule file `OneRuleToRuleThemAll.rule`
 
 `hashcat -D 2,3 -m 0 7f4986da7d7b52fa81f98278e6ec9dcb final.lst -r ~/tools/Optimised-hashcat-Rule/OneRuleToRuleThemAll.rule`
-`hashcat -D 2,3 -m 0 7f4986da7d7b52fa81f98278e6ec9dcb final.lst -r ~/tools/Optimised-hashcat-Rule/OneRuleToRuleThemAll.rule --show`
-`7f4986da7d7b52fa81f98278e6ec9dcb:Aaron19800321`
+`hashcat -D 2,3 -m 0 7f4986da7d7b52fa81f98278e6ec9dcb final.lst -r ~/tools/Optimised-hashcat-Rule/OneRuleToRuleThemAll.rule --show 7f4986da7d7b52fa81f98278e6ec9dcb:Aaron19800321`
 
 # Final Flag `flag{Aaron19800321}`
