@@ -10,23 +10,37 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [ransomwaRE](./ransomware/)
 
+[ncore](./ncore/)
+
 [macomal](./macomal/)
+
+[turning_trees](./turning_trees/)
 
 [hardskull](./hardskull/)
 
 ### pwn
 
-[procrastination-simulator](./procrastination-simulator/)
-
 [Alien Math](./alien-math/)
 
+[haySTACK](./haystack/)
+
+[procrastination-simulator](./procrastination-simulator/)
+
+[word_games](./word_games/)
+
 [cold](./cold/)
+
+[krypto](./krypto/)
 
 ### isc
 
 [✔️ The Magic Modbus](./the-magic-modbus/)
 
+[A Pain in the BAC(net)](./a-pain-in-the-bacnet/)
+
 [A Different Type of Serial Key](./a-different-type-of-serial-key/)
+
+[Tripping Breakers]
 
 ### forensics
 
@@ -34,9 +48,17 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [✔️ mic](./mic/)
 
+[✔️ Contact Us](./contact-us/)
+
+[Sonicgraphy Fallout](./sonicgraphy-fallout/)
+
 ### misc
 
 [✔️ Welcome](./welcome/)
+
+[✔️ Survey Says...](./survey-says/)
+
+[✔️ Weak Password](./weak-password/)
 
 [Save the Tristate](./save-the-tristate/)
 
@@ -46,11 +68,23 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [Gatekeeping](./gatekeeping/)
 
+[no-pass-needed](./no-pass-needed/)
+
+[securinotes](./securinotes/)
+
+[scp-terminal](./scp-terminal/)
+
 ### crypto
 
 [Forgery](./forgery/)
 
 [RSA Pop Quiz](./rsa-pop-quiz/)
+
+[Gotta Decrypt Them All](./gotta-decrypt-them-all/)
+
+[ECC Pop Quiz](./ecc-pop-quiz/)
+
+[Bits](./bits/)
 
 ### warm-up
 

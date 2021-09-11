@@ -55,4 +55,4 @@ Following the pattern above, you can decipher the flag.
 
 Submit the flag and claim the points:
 
-**flag{Ms_F1ZZL3_W0ULD_b3_s0_Pr0UD}**
+**flag{Ms_Fr1ZZL3_W0ULD_b3_s0_Pr0UD}**
