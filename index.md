@@ -32,7 +32,7 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [✔️ Lazy Leaks](./lazy-leaks/)
 
-[mic](./mic/)
+[✔️ mic](./mic/)
 
 ### misc
 
