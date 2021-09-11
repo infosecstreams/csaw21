@@ -60,6 +60,6 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [checker](./Checker/)
 
-[Password Checker](./password-checker/)
+[✔️ Password Checker](./password-checker/)
 
 [✔️ Crack Me](./crack-me/)
