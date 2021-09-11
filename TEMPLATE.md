@@ -23,7 +23,7 @@ Writeup by: [USERNAME](https://github.com/USERNAME)
 
 Team: [OnlyFeet](https://ctftime.org/team/144644)
 
-Writeup URL: [GitHub](https://infosecstreams.github.io/csaw21/CHALLENG NAME/)
+Writeup URL: [GitHub](https://infosecstreams.github.io/csaw21/CHALLENGE NAME/)
 
 ----
 
