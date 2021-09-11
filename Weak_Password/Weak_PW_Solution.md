@@ -22,7 +22,7 @@ for i in range(delta.days + 1):
 
 `sed -e 's/ //g' dates > mdy`
 
-# Append the username to the start and end of the dates to a new file
+# Modify the dates file `mdy` with `name` and `special characters`
 
 ```bash
 #!/bin/bash
