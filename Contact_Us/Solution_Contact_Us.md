@@ -24,8 +24,8 @@
 # Doing the Same thing but with `tshark` Much Easier
 
 1. Decrypt Pcap into a new file
-    tshark -r ContactUs.pcap -V -x -o tls.keylog_file:key.log  > results
+    * `tshark -r ContactUs.pcap -V -x -o tls.keylog_file:key.log  > results`
 2. grep to win for the flag
-    grep 'flag{' results
+    * `grep 'flag{' results`
 
 # Final Flag `flag{m@r$hm3ll0w$}`
