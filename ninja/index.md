@@ -19,7 +19,7 @@ toc-own-page: true
 
 # Ninja
 
-Writeup by: [GoProSlowYo](https://github.com/GoProSlowYo)
+Writeup by: [GoProSlowYo](https://github.com/GoProSlowYo) and solved by [jrozner](https://github.com/jrozner)
 
 Team: [OnlyFeet](https://ctftime.org/team/144644)
 
@@ -43,7 +43,7 @@ We entered:
 {{7*'5ev3n!+'}}
 ```
 
-![Server-Side Template Injection](./ssti.png)\
+![Server-Side Template Injection](./ssti.png)
 
 ## Finding the Right SSTI Payload
 
@@ -57,7 +57,7 @@ You can find great examples and help at the [Filter Bypass section of the Payloa
 
 We should URL encode that and then send it off. In this example I used [Zeds Attack Proxy](https://www.zaproxy.org/).
 
-![Exploiting Server-Side Template Injection using Zed Attack Proxy and Getting the Flag](./expoit.png)\
+![Exploiting Server-Side Template Injection using Zed Attack Proxy and Getting the Flag](./expoit.png)
 
 ## Victory
 
