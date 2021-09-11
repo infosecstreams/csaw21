@@ -17,19 +17,17 @@ toc: true
 toc-own-page: true
 ---
 
-# MAGIC MODBUS
+# The Magic Modbus
 
 Writeup by: [XAngryChairX](https://github.com/XAngryChairX)
 
 Team: [OnlyFeet](https://ctftime.org/team/144644)
 
-Writeup URL: [GitHub](https://infosecstreams.github.io/csaw21/magic-modbus/)
+Writeup URL: [GitHub](https://infosecstreams.github.io/csaw21/the-magic-modbus/)
 
 ----
 
-```text
-Climb on the Magic Modbus and see if you can find some of the messages being passed around!
-```
+`Climb on the Magic Modbus and see if you can find some of the messages being passed around!`
 
 ## Initial Research
 
@@ -39,7 +37,7 @@ This challenge presents the security researcher with a pcap file download as the
 
 Download the pcap file and open it in Wireshark or a related pcap analysis application.
 
-![PCAP Contents](../the-magic-modbus/media/packet-capture.png)
+![PCAP Contents](./media/packet-capture.png)
 
 ## Follow the stream
 
@@ -49,7 +47,7 @@ Note that a few packets have a dark background. These stand out, and provide an 
 
 Upon inspection of the TCP stream, you can see some key characters of interest. Specifically, { and }. Also, the characters `f`, `l`, `a`, and `g`.
 
-![tcp stream](../the-magic-modbus/media/packet-capture-solved.png)
+![tcp stream](./media/packet-capture-solved.png)
 
 ## Solution
 
