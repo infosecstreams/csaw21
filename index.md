@@ -20,9 +20,9 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 ### pwn
 
-[Alien Math](./alien-math/)
+[✔️ Alien Math](./alien-math/)
 
-[haySTACK](./haystack/)
+[✔️ haySTACK](./haystack/)
 
 [procrastination-simulator](./procrastination-simulator/)
 
@@ -80,7 +80,7 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [RSA Pop Quiz](./rsa-pop-quiz/)
 
-[Gotta Decrypt Them All](./gotta-decrypt-them-all/)
+[✔️ Gotta Decrypt Them All](./gotta-decrypt-them-all/)
 
 [ECC Pop Quiz](./ecc-pop-quiz/)
 
