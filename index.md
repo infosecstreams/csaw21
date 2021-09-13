@@ -92,7 +92,7 @@ Legend: ✔️ = Solved (and we may or may not have written the writeup.)
 
 [✔️ Turing](./turing/)
 
-[✔️ checker](./Checker/)
+[✔️ checker](./checker/)
 
 [✔️ Password Checker](./password-checker/)
 
