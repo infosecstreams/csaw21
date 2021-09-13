@@ -4,7 +4,7 @@ Writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
 ## Writeups
 
-Legend: ✔️ = Solved (and we may or not have written the writeup.)
+Legend: ✔️ = Solved (and we may or may not have written the writeup.)
 
 ### rev
 
@@ -14,7 +14,7 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [macomal](./macomal/)
 
-[turning_trees](./turning_trees/)
+[turning-trees](./turning-trees/)
 
 [hardskull](./hardskull/)
 
@@ -36,11 +36,11 @@ Legend: ✔️ = Solved (and we may or not have written the writeup.)
 
 [✔️ The Magic Modbus](./the-magic-modbus/)
 
-[A Pain in the BAC(net)](./a-pain-in-the-bacnet/)
+[✔️ A Pain in the BAC(net)](./a-pain-in-the-bacnet/)
 
 [A Different Type of Serial Key](./a-different-type-of-serial-key/)
 
-[Tripping Breakers]
+[Tripping Breakers](./tripping-breakers/)
 
 ### forensics
 
