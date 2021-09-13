@@ -1,9 +1,9 @@
 ---
-title: "CHALLENGE NAME"
+title: "Crack Me"
 subtitle: "CSAW 2021 CTF"
-author: USERNAME
+author: OreoByte
 date: "2021-09-10"
-subject: "CHALLENGE NAME Writeup"
+subject: "Crack Me Writeup"
 keywords: \[CSAW21, CSAW, CTF, InfoSec\]
 lang: "en"
 titlepage: true
